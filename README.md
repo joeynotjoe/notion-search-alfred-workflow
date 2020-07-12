@@ -3,6 +3,8 @@ An Alfred workflow to search Notion.so with instant results
 
 Simply type your keyword into Alfred (default: ns) to see instant search results from Notion that mimic the Quick Find function in the Notion webapp. Selecting a search result takes you to that page in Notion in your default web browser.
 
+** Comes with pre-configured support for [OneUpdater](https://github.com/vitorgalvao/alfred-workflows/tree/master/OneUpdater) for automatic version updates **
+
 
 ![img](https://github.com/wrjlewis/notion-search-alfred-workflow/blob/31d36ee9e75c343045f2a1f313b03373669a7730/notion-demo.gif)
 
@@ -48,7 +50,7 @@ celcl9aa-c3l7-7504-ca19-0c985e34ll8d
 
 In the Alfred worfklow in the upper right corner click the `[x]` icon and add the values from above to the corresponding value field
 
-[![img](https://i.imgur.com/KKYa3El.jpg)](https://i.imgur.com/KKYa3El.jpg)
+[![img](https://i.imgur.com/Pe6nwey.jpg)](https://i.imgur.com/Pe6nwey.jpg)
 
 ## Tips
 
